@@ -1,0 +1,15 @@
+#moduls necessaris per executar el codi
+#pip install -r requirements.txt
+
+pandas
+numpy
+requests
+tk
+tqdm
+PyMuPDF
+sentence-transformers
+faiss-cpu
+scikit-learn
+sseclient
+selenium
+playwright
